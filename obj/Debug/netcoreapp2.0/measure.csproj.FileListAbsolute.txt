@@ -1,0 +1,10 @@
+C:\Users\grace.fox\measure\obj\Debug\netcoreapp2.0\measure.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\measure\obj\Debug\netcoreapp2.0\measure.AssemblyInfoInputs.cache
+C:\Users\grace.fox\measure\obj\Debug\netcoreapp2.0\measure.AssemblyInfo.cs
+C:\Users\grace.fox\measure\bin\Debug\netcoreapp2.0\measure.deps.json
+C:\Users\grace.fox\measure\bin\Debug\netcoreapp2.0\measure.runtimeconfig.json
+C:\Users\grace.fox\measure\bin\Debug\netcoreapp2.0\measure.runtimeconfig.dev.json
+C:\Users\grace.fox\measure\bin\Debug\netcoreapp2.0\measure.dll
+C:\Users\grace.fox\measure\bin\Debug\netcoreapp2.0\measure.pdb
+C:\Users\grace.fox\measure\obj\Debug\netcoreapp2.0\measure.dll
+C:\Users\grace.fox\measure\obj\Debug\netcoreapp2.0\measure.pdb

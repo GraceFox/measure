@@ -1,0 +1,8 @@
+C:\Users\grace.fox\measure\UnitTests\bin\Debug\netstandard2.0\UnitTests.deps.json
+C:\Users\grace.fox\measure\UnitTests\bin\Debug\netstandard2.0\UnitTests.dll
+C:\Users\grace.fox\measure\UnitTests\bin\Debug\netstandard2.0\UnitTests.pdb
+C:\Users\grace.fox\measure\UnitTests\obj\Debug\netstandard2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\measure\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\grace.fox\measure\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfo.cs
+C:\Users\grace.fox\measure\UnitTests\obj\Debug\netstandard2.0\UnitTests.dll
+C:\Users\grace.fox\measure\UnitTests\obj\Debug\netstandard2.0\UnitTests.pdb
